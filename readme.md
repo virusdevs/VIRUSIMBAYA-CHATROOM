@@ -22,7 +22,7 @@
 <div align="center">
   <h3>🔧 How to Deploy:</h3>
   <p align="center">
-  <ol align="left" style="display: inline-block; text-align: left;">
+<p align="center">  <ol align="left" style="display: inline-block; text-align: left;">
     <li>Create account on <a href="https://heroku.com">Heroku</a> or <a href="https://render.com">Render</a></li>
     <li>Connect your GitHub repository</li>
     <li>Configure environment variables</li>
