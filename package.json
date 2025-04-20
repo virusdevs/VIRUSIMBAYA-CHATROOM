@@ -1,7 +1,7 @@
 {
-  "name": "bwm-xmd-chat",
+  "name": "Virusi-md-chat",
   "version": "1.0.0",
-  "description": "BWM XMD Chatting Zone - Futuristic Real-Time Chat",
+  "description": "VIRUSI 🦠 MBAYA Chatting Zone - Futuristic Real-Time Chat",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
